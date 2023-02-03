@@ -45,7 +45,7 @@ function draw() {
 			}
 		}
 	}
-	save('mySVG.svg');
+	// save('mySVG.svg');
 
 	noLoop();
 }
